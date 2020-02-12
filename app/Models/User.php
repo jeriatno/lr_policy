@@ -45,6 +45,6 @@ class User extends Authenticatable
 
     public function ownsArticle(Article $article)
     {
-        return auth()->id() == $article->user->id;
+        return auth()->id() === $article->user->id;
     }
 }
