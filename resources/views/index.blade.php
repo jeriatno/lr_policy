@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel Fractal &mdash; Jeblog</title>
+        <title>Laravel Policy</title>
         <link href="{{ asset('favicon.png') }}" type="img/x-icon" rel="shortcut icon">
 
         <!-- Fonts -->
@@ -71,10 +71,10 @@
 
             <div class="content">
                 <div class="bg">
-                    <img src="{{ asset('laravel-fractal.png') }}" alt="laravel-fractal" class="img-fluid">
+                    <img src="{{ asset('laravel-policy.png') }}" alt="laravel-policy" class="img-fluid">
                 </div>
                 <div class="link">
-                    <a href="https://medium.com/@jeriatno/laravel-fractal-cbe9745e14f4" target="_blank">Visit this article...</a>
+                    <a href="https://medium.com/@jeriatno/laravel-policy-793bf6de5615" target="_blank">Visit this article...</a>
                 </div>
             </div>
         </div>
